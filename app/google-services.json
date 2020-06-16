@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "165846234527",
+    "firebase_url": "https://nusa-fishing.firebaseio.com",
+    "project_id": "nusa-fishing",
+    "storage_bucket": "nusa-fishing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165846234527:android:134c14cf4410d269d139aa",
+        "android_client_info": {
+          "package_name": "com.admin.nusafishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165846234527-qgeu6j35o9dl7461vi106g5mm62kgqvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.nusafishing",
+            "certificate_hash": "8bd07f02ef3d551befa701ec8c9683e37c8038b0"
+          }
+        },
+        {
+          "client_id": "165846234527-8o7eldu4ci9tvoqvnau4sofr67kg2paj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Kk-ltnRdJegMytvfna7GUbQIUiuLruU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165846234527-8o7eldu4ci9tvoqvnau4sofr67kg2paj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165846234527:android:62dc4a85d7eca327d139aa",
+        "android_client_info": {
+          "package_name": "com.sampriatna.nusafishing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165846234527-9lvlkc7laqrtjsm47ccs4hrmnefghmq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sampriatna.nusafishing",
+            "certificate_hash": "8bd07f02ef3d551befa701ec8c9683e37c8038b0"
+          }
+        },
+        {
+          "client_id": "165846234527-8o7eldu4ci9tvoqvnau4sofr67kg2paj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Kk-ltnRdJegMytvfna7GUbQIUiuLruU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165846234527-8o7eldu4ci9tvoqvnau4sofr67kg2paj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
